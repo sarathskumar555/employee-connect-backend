@@ -1,0 +1,145 @@
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.joinRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:87:47)
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:42:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.joinRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:87:47)
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:42:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.sendToRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:94:47)
+    at postDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:18:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\node\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\index.js:174:3)
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.joinRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:87:47)
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:42:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.joinRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:87:47)
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:42:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.joinRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:87:47)
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:42:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: user is not defined
+    at Object.joinRoom (C:\Users\Acer\Desktop\node\helper\sockethelper.js:87:47)
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:42:12)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Cannot read property 'uid' of undefined
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:56:21)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Cannot read property 'uid' of undefined
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:56:21)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Assignment to constant variable.
+    at getDetails (C:\Users\Acer\Desktop\node\controller\employee\chatController.js:53:23)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

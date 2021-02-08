@@ -1,0 +1,117 @@
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\node\controller\employee\userController.js:88:28)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}

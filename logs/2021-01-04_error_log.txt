@@ -1,0 +1,36 @@
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (C:\Users\Acer\Desktop\project\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\Acer\Desktop\project\helper\passwordHashHelper.js:18:22
+    at new Promise (<anonymous>)
+    at Object.comparePasswordHash (C:\Users\Acer\Desktop\project\helper\passwordHashHelper.js:17:12)
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:13:47)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: jti is not defined
+    at Object.revokeToken (C:\Users\Acer\Desktop\project\helper\authhelper.js:140:14)
+    at removeSession (C:\Users\Acer\Desktop\project\controller\employee\authController.js:50:20)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\project\helper\authhelper.js:83:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: jti is not defined
+    at Object.revokeToken (C:\Users\Acer\Desktop\project\helper\authhelper.js:140:14)
+    at removeSession (C:\Users\Acer\Desktop\project\controller\employee\authController.js:50:20)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\project\helper\authhelper.js:83:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: c is not defined
+    at Object.revokeToken (C:\Users\Acer\Desktop\project\helper\authhelper.js:124:5)
+    at removeSession (C:\Users\Acer\Desktop\project\controller\employee\authController.js:50:20)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\project\helper\authhelper.js:83:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

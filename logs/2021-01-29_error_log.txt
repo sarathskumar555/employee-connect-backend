@@ -1,0 +1,60 @@
+
+=================== ERROR =====================
+ Error: data and salt arguments required
+    at Object.hash (C:\Users\Acer\Desktop\node\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:9:22
+    at new Promise (<anonymous>)
+    at Object.generatePasswordHash (C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:7:12)
+    at update (C:\Users\Acer\Desktop\node\controller\employee\userController.js:104:47)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ Error: data and salt arguments required
+    at Object.hash (C:\Users\Acer\Desktop\node\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:9:22
+    at new Promise (<anonymous>)
+    at Object.generatePasswordHash (C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:7:12)
+    at update (C:\Users\Acer\Desktop\node\controller\employee\userController.js:104:47)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ Error: data and salt arguments required
+    at Object.hash (C:\Users\Acer\Desktop\node\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:9:22
+    at new Promise (<anonymous>)
+    at Object.generatePasswordHash (C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:7:12)
+    at update (C:\Users\Acer\Desktop\node\controller\employee\userController.js:104:47)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ Error: data and salt arguments required
+    at Object.hash (C:\Users\Acer\Desktop\node\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:9:22
+    at new Promise (<anonymous>)
+    at Object.generatePasswordHash (C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:7:12)
+    at update (C:\Users\Acer\Desktop\node\controller\employee\userController.js:105:47)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ Error: data and salt arguments required
+    at Object.hash (C:\Users\Acer\Desktop\node\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:9:22
+    at new Promise (<anonymous>)
+    at Object.generatePasswordHash (C:\Users\Acer\Desktop\node\helper\passwordHashHelper.js:7:12)
+    at update (C:\Users\Acer\Desktop\node\controller\employee\userController.js:105:47)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\node\node_modules\express\lib\router\route.js:137:13)
+    at C:\Users\Acer\Desktop\node\helper\authhelper.js:84:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

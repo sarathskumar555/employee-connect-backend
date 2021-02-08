@@ -1,0 +1,440 @@
+
+=================== ERROR =====================
+ ReferenceError: token is not defined
+    at create (C:\Users\Acer\Desktop\project\controller\usercontroller.js:18:41)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: token is not defined
+    at create (C:\Users\Acer\Desktop\project\controller\usercontroller.js:18:41)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Cannot set property 'data' of undefined
+    at create (C:\Users\Acer\Desktop\project\controller\usercontroller.js:20:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: Cannot set property 'data' of undefined
+    at create (C:\Users\Acer\Desktop\project\controller\usercontroller.js:21:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: re is not defined
+    at create (C:\Users\Acer\Desktop\project\controller\usercontroller.js:15:13)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ ReferenceError: result is not defined
+    at get (C:\Users\Acer\Desktop\project\controller\usercontroller.js:61:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ ReferenceError: usermode is not defined
+    at getid (C:\Users\Acer\Desktop\project\controller\usercontroller.js:77:31)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+
+=================== ERROR =====================
+ Forbidden: Sorry! we cannot process this request.
+    at getid (C:\Users\Acer\Desktop\project\controller\usercontroller.js:80:24)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 403
+}
+
+=================== ERROR =====================
+ TypeError: Cannot read property 'then' of undefined
+    at create (C:\Users\Acer\Desktop\project\controller\employee\userCrud.js:33:136)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ TypeError: Cannot read property 'then' of undefined
+    at create (C:\Users\Acer\Desktop\project\controller\employee\userCrud.js:33:63)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ ReferenceError: Cannot access 'result' before initialization
+    at create (C:\Users\Acer\Desktop\project\controller\employee\userCrud.js:33:69)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ ReferenceError: Cannot access 'result' before initialization
+    at create (C:\Users\Acer\Desktop\project\controller\employee\userCrud.js:35:38)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ ReferenceError: p1 is not defined
+    at create (C:\Users\Acer\Desktop\project\controller\employee\userCrud.js:38:21)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ ReferenceError: array is not defined
+    at Object.loginName (C:\Users\Acer\Desktop\project\models\userModel.js:63:52)
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:10:40)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'sarath12334f3jjjkkkk' in 'where clause'
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:201:28
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'sarath12334f3jjjkkkk' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    \n' +
+    '    e.name \n' +
+    '    \n' +
+    '    FROM employee e\n' +
+    '    WHERE sarath12334f3jjjkkkk'
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM employee
+                     WHERE name=sarath12334f3jjjkkkk AND password=' at line 2
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM employee\n" +
+    "                     WHERE name=sarath12334f3jjjkkkk AND password=' at line 2",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT name,password,\n' +
+    '                        FROM employee\n' +
+    '                     WHERE name=sarath12334f3jjjkkkk AND password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM employee
+                     WHERE name=sarath12334f3jjjkkkk AND password=' at line 2
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM employee\n" +
+    "                     WHERE name=sarath12334f3jjjkkkk AND password=' at line 2",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT name,password,\n' +
+    '                        FROM employee\n' +
+    '                     WHERE name=sarath12334f3jjjkkkk AND password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM employee e
+                     WHERE e.name=sarath12334f3jjjkkkk AND e.pas' at line 2
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM employee e\n" +
+    "                     WHERE e.name=sarath12334f3jjjkkkk AND e.pas' at line 2",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT e.name,e.password,\n' +
+    '                        FROM employee e\n' +
+    '                     WHERE e.name=sarath12334f3jjjkkkk AND e.password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'sarath12334f3jjjkkkk' in 'where clause'
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'sarath12334f3jjjkkkk' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'SELECT e.name,e.password\n' +
+    '                        FROM employee e\n' +
+    '                     WHERE e.name=sarath12334f3jjjkkkk AND e.password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'sarath12334f3jjjkkkk' in 'where clause'
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'sarath12334f3jjjkkkk' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'SELECT name,password\n' +
+    '                        FROM employee \n' +
+    '                     WHERE name=sarath12334f3jjjkkkk AND password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'sarath12334f3jjjkkkk' in 'where clause'
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'sarath12334f3jjjkkkk' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'SELECT name,password\n' +
+    '                        FROM employee \n' +
+    '                     WHERE name=sarath12334f3jjjkkkk AND password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'sarath12334f3jjjkkkk' in 'where clause'
+    at Query.Sequence._packetToError (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:309:12)
+    --------------------
+    at Protocol._enqueue (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:198:25)
+    at C:\Users\Acer\Desktop\project\server\database.js:249:26
+    at Handshake.onConnect (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Pool.js:64:7)
+    at Handshake.<anonymous> (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Acer\Desktop\project\node_modules\mysql\lib\protocol\Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'sarath12334f3jjjkkkk' in 'where clause'",
+  sqlState: '42S22',
+  index: 0,
+  sql: 'SELECT *\n' +
+    '                        FROM employee \n' +
+    '                     WHERE name=sarath12334f3jjjkkkk AND password=$2b$10$qowdGvbBb2WpJyrUVsS28.0qi1fJqN.EsVm/0srZMoDOr7A2Bg4Oi;'
+}
+
+=================== ERROR =====================
+ TypeError: usermodel.loginName is not a function
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:10:42)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ TypeError: usermodel.loginname is not a function
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:10:42)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
+
+=================== ERROR =====================
+ TypeError: Cannot read property 'password' of undefined
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:11:77)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

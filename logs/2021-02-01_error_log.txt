@@ -1,0 +1,6 @@
+
+=================== ERROR =====================
+ ReferenceError: profilePicture is not defined
+    at Object.insertusermodel (C:\Users\Acer\Desktop\node\models\userModel.js:14:141)
+    at create (C:\Users\Acer\Desktop\node\controller\employee\userController.js:34:40)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

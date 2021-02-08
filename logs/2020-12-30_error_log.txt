@@ -1,0 +1,24 @@
+
+=================== ERROR =====================
+ TypeError: Cannot read property 'uid' of undefined
+    at Object.loginModel.create (C:\Users\Acer\Desktop\project\models\loginModel.js:22:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:18:32)
+
+=================== ERROR =====================
+ ReferenceError: login_uid is not defined
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:25:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+=================== ERROR =====================
+ TypeError: usermodel.loginname is not a function
+    at login (C:\Users\Acer\Desktop\project\controller\employee\authController.js:10:42)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Acer\Desktop\project\node_modules\express\lib\router\index.js:47:12)
